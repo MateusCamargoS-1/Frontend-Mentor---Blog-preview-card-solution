@@ -6,7 +6,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![](./assets/screenshot/mobile.jpeg)
 
 ## Desktop
-![](./assets/screenshot/mobile.jpeg)
+![](./assets/screenshot/desktop.jpeg)
 
 ### Links
 - Live Site URL: [Add live site URL here]()
