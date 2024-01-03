@@ -9,7 +9,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![](./assets/screenshot/desktop.jpeg)
 
 ### Links
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://mateuscamargos-1.github.io/Frontend-Mentor---Blog-preview-card-solution/)
 
 ### Built with
 
